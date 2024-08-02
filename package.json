@@ -18,7 +18,7 @@
     "react-scripts": "5.0.1",
     "react-toastify": "^10.0.5",
     "web-vitals": "^2.1.4",
-    "homepage": "https://github.com/siddhaparadhruv/live-react-web-demo.git"
+    "homepage": "https://siddhaparadhruv.github.io/live-react-web-demo"
   },
   "scripts": {
     "start": "react-scripts start",
